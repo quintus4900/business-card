@@ -1,0 +1,15 @@
+.card{
+    color: #621fce;   
+    background: lightgray;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    
+    padding: 20px;
+    
+    border: 5px solid red;
+    border-radius: 20px;
+    
+}
